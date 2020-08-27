@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">時間割</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_kousen_link">旭川高専シラバス</string>
+    <string name="menu_classroom">Googleclassrom</string>
+    <string name="menu_moodle">Moodle</string>
+    <string name="menu_kadai">課題リスト</string>
+    <string name="menu_ALC">ALC e-Learning</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
